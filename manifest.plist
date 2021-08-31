@@ -29,15 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.deckers.B2BMobileApp</string>
+				<string>com.deckers.DVFForest</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Runner</string>
+				<string>Virtual Forest</string>
 			</dict>
 		</dict>
 	</array>
